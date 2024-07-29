@@ -1,0 +1,27 @@
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:nil arch:headline author:t broken-links:nil
+#+options: c:nil creator:nil d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
+#+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t timestamp:t title:t toc:nil
+#+options: todo:t |:t
+#+title: 2026 Total Solar Eclipse
+#+date:  2024-07-28 Sun
+#+author: Gregory Grubbs
+#+email: gregory.grubbs@gmail.com
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+setupfile: ~/projects/emacs/org-themes/src/readtheorg_inline/readtheorg_inline.theme
+
+[[file:img/stardog-eclipse-viewing-DALL-E-2023-04-15.png]]
+* Overview!!
+  + [[https://nso.edu/for-public/eclipse-map-2026/][Eclipse Map - August 12, 2026 - NSO - National Solar Observatory ≫ nso.edu]]
+  + Likely first date Marriott will allow booking: [2023-04-19 Wed]
+    + 50 weeks in advance
+    + <2026-08-12 Wed -350d>
+
+** Booking date (50 weeks before)
+   SCHEDULED: <2026-08-12 Wed -350d>
+   <2026-08-12 Wed -350d>  # This subtracts 350 days (50 weeks) from the target date
+** Hotels/Villas/Apartments/Vrbo near ??
+** Plane/train trip
+*** Outbound
+*** Return

@@ -1,0 +1,55 @@
+* PACKING
+** Electronics [4/7]
+   + [X] Kindle
+   + [X] Chargers
+   + [X] Steam deck
+   + [X] Roku and/or Chromecast
+   + [ ] Cables + adapters/dongles (C-HDMI e.g.)
+   + [ ] Phone + bluetooth
+   + [ ] Headphones
+
+** Beach [2/8]
+   + [ ] aloe
+   + [ ] bug spray
+   + [ ] anti-itch gel
+   + [X] sunscreen
+   + [X] pool shorts
+   + [ ] pool shoes
+   + [ ] sandals
+   + [ ] pool shirts / high spf shirts
+** Viral pandemic [2/2]
+   + [X] surgical masks
+   + [X] alcohol wipes
+** Observability [2/4]
+   + [ ] binoculars!
+   + [X] Eclipse glasses!
+   + [ ] glasses cleaners!
+   + [X] goggles / spare glasses (?)
+
+** Food and Drink [2/2]
+   + [X] Coffee / ESE pods
+   + [X] coffee maker (aeropress, water heater ...)
+** Health/Fitness [1/3]
+   + [X] resistance bands, push-up grips
+   + [ ] band aids,
+   + [ ] anti-allergy: zirtec,nasicort
+** Documents [1/2]
+   + [X] ID: passport, drivers license
+   + [ ] Fiat money
+** Road trippin' [7/10]
+  + [X] tire patching kit
+  + [X] first aid kit
+  + [ ] Cooler
+  + [ ] hiking knapsack
+  + [X] Tesla mobile charger and adapters
+  + [X] Festival chairs
+  + [X] utensils, picnic kit, cups, openers, plates
+  + [X] bags
+  + [X] inverter
+  + [ ] rattle and hum
+* Prep before leaving [3/4]
+  + [X] check + instructions for cleaner, pet sitter
+  + [ ] lights and windows
+  + [X] unplug things
+    + [X] tesla UMC
+  + [X] kitty litter, water, food
